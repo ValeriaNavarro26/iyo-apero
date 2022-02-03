@@ -3,7 +3,7 @@ title: "APOYO Consultoria - Practitioner"
 subtitle: "Jan 2020 - Jul 2020"
 excerpt: "Jan 2020 - Jul 2020"
 date: 2020-01-02
-date_end: "2020-07-30"
+date_end: "2020-07-31"
 show_post_time: false
 
 #event: "rstudio::global(2021)"
