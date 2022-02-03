@@ -3,7 +3,7 @@ title: "SUDAMERICANA DE FIBRAS - Professional practitioner"
 subtitle: "May 2021 - Oct 2021"
 excerpt: "May 2021 - Oct 2021"
 date: 2021-05-01
-date_end: "2021-10-30"
+date_end: "2021-10-31"
 show_post_time: false
 
 #event: "rstudio::global(2021)"
