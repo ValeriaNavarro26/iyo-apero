@@ -1,7 +1,7 @@
 ---
 title: "SUDAMERICANA DE FIBRAS - Financial planning assistant"
 subtitle: "Nov 2021 - Present"
-excerpt: "Nov - Present"
+excerpt: "Nov 2021 - Present"
 date: 2021-11-01
 date_end: "2022-02-01"
 show_post_time: false
