@@ -10,7 +10,7 @@ show_post_time: false
 #event_url: https://global.rstudio.com
 author: "Valeria Navarro"
 location: "Lima, Peru"
-draft: true
+draft: false
 # layout options: single, single-sidebar
 layout: single
 #categories:
