@@ -78,9 +78,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/ValeriaNavarro26"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/valeria.navarropena/"
+      url       = "https://www.linkedin.com/in/valeria-navarro-pe%C3%B1a-7634991b1/"
   #[[params.social]]
       #icon      = "envelope" # icon name without the 'fa-'
       #icon_pack = "far"
