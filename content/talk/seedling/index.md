@@ -11,6 +11,15 @@ draft: false
 layout: single
 #categories:
 #- meetup
+links:
+#- icon: door-open
+#  icon_pack: fas
+#  name: certificate
+#  url: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:a0869468-b45c-3ecc-a5fb-0d4d737fe456
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/ValeriaNavarro26/paper_draft.git
 ---
 
 
